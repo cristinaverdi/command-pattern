@@ -1,4 +1,6 @@
-package tvcommander;
+package commandexample.turnontv;
+
+import commandexample.Command;
 
 public class RemoteControl {
     private Command command;
